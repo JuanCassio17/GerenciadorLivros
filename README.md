@@ -1,5 +1,5 @@
 # GerenciadorLivros
-Aplicativo de gerenciamento de livros Android
+### Aplicativo de gerenciamento de livros Android
 
 Este aplicativo faz parte de um projeto supervisionado do curso Programador de Dispositivos Móveis do IMDFIC/UFRN.
 Disciplina - Projeto Supervisionado.
